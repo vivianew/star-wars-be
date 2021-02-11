@@ -5,6 +5,7 @@
 # How to Run
 To be run conjointly with the UI here [star-wars-ui](https://github.com/vivianew/star-wars-ui)
 
+Install the dependencies with `npm i` \
 Start the project by running `npm run dev` \
 Please also start your MongoDB service 
 
